@@ -9,5 +9,8 @@ public class Main {
         System.out.println("Hello new feature");
         System.out.println("Hello new addition");
         System.out.println("Hello new addition from PullBranch");
+
+        System.out.println("Hello new addition from PullBranch");
+        System.out.println("Hello new addition from PullBranch");
     }
 }
